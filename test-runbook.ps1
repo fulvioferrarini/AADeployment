@@ -1,5 +1,5 @@
 
 
-Get-Service -Name rbsvc
+Get-Service
 
 $env:COMPUTERNAME
